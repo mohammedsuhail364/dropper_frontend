@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dropper_frontend/static/css/main.ad37d901.css",
-    "main.js": "/dropper_frontend/static/js/main.b7d4ae4e.js",
+    "main.js": "/dropper_frontend/static/js/main.7e1e8ef1.js",
     "index.html": "/dropper_frontend/index.html",
     "main.ad37d901.css.map": "/dropper_frontend/static/css/main.ad37d901.css.map",
-    "main.b7d4ae4e.js.map": "/dropper_frontend/static/js/main.b7d4ae4e.js.map"
+    "main.7e1e8ef1.js.map": "/dropper_frontend/static/js/main.7e1e8ef1.js.map"
   },
   "entrypoints": [
     "static/css/main.ad37d901.css",
-    "static/js/main.b7d4ae4e.js"
+    "static/js/main.7e1e8ef1.js"
   ]
 }
